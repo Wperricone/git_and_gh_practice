@@ -1,0 +1,4 @@
+Puzzling
+Sleeping
+Swimming
+Camping
